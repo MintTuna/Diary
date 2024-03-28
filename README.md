@@ -1,1 +1,1 @@
-# MintTuna.github.io
+## 우태의일기
